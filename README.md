@@ -3,8 +3,9 @@
 Welcome to an AI-powered movie suggestion app that recommends films based on your favorites using **cosine similarity** and **movie embeddings**. Built with ❤️ using **Python**, **Streamlit**, and **Scikit-learn**, this interactive project blends machine learning and web development into a smart and fun tool.
 
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_LINK.png" alt="app_preview" width="600">
+  <img src="app_preview.png" alt="app_preview" width="600">
 </p>
+
 
 ---
 
